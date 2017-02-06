@@ -11,6 +11,12 @@ List of examples showing how you can use UniRx for games in Unity3D.
 
 http://slides.com/sammegidov/unirx
 
+# Looking for a more complex example?
+
+Check this simple endless game out:
+https://github.com/Xerios/UniRxSimpleGame
+
+It shows you how to properly structure your code and manage your memory using _CompositeDisposables_.
 
 # Libraries
 
